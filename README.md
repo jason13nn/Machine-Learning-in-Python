@@ -1,8 +1,2 @@
 # Machine-Learning-in-Python
-Introduces the processes of exploring, visualizing, and classifying large amounts of data.
-This course provides an introduction to classic and contemporary learning techniques in classification and regression, 
-using the Python programming language for simple APIs and rapid prototyping.
-We explore linear classification algorithms and their non-linear counterparts via kernel tricks.
-We also explore Neural Networks and deep learning architectures, with emphasis on GPU accelerated training and auto encoding procedures. 
-Class projects focus on using Kaggle competitions as example datasets. 
-All material covered will be reinforced through hands-on experience using state-of-the art tools to design and execute data learning algorithms. 
+Due to the ongoing COVID-19 pandemic in the world, our lifestyle has changed. Staying at home, stockpiling food, and practicing social distancing has become normal methods to prevent the spread of coronavirus. However, there are still many people who are worried about their conditions if they have a fever, sore throat, or muscle pain. Therefore, in this project, we would like to investigate several common features of COVID-19 based on the data from common physical exams. Then we rely on clinical diagnostic data to make a deeper understanding of why these symptoms happen, what body physiological indices actually have changed, and how have they changed. This research probably helps broaden our horizons so that we may have more efficient ways to prevent this disease.
